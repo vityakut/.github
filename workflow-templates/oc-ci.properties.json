@@ -1,8 +1,8 @@
 {
     "name": "OpenCart Workflow",
     "description": "OpenCart CI workflow template.",
-    "iconName": "Opencart-icon",
+    "iconName": "opencart-icon",
     "categories": [
-        "php"
+        "PHP"
     ]
 }
